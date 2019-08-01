@@ -1,4 +1,4 @@
-# The ActivityLog-HeatMappers: A Novel Research Data Collection Tools for Logging Human Activities, Locations, and Environmental Data
+# ActivityLog-HeatMappers: A Novel Research Data Collection Tools for Logging Human Activities, Locations, and Environmental Data
 
 # Introduction
 This github repo deposits the web-based interactive visualization videos to demontrate the research results from ActivityLog-HeatMappers Citizen Science Program by the ASU Knowledge Exchange for Resilience research team. 

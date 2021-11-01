@@ -1,5 +1,6 @@
 # Understanding the interaction between human activities and physical health under extreme heat environment in Phoenix, Arizona
 
+
 # Introduction
 This github repo deposits the web-based interactive visualization videos to demontrate the research results from ActivityLog-HeatMappers Citizen Science Program by the ASU Knowledge Exchange for Resilience research team. We also include a few jupyter notebooks to demonstrate how we generate the figures in the manuscript. 
 
